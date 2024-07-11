@@ -78,3 +78,30 @@
     align-items: center;
     justify-content: center;
 }
+
+.information h2{
+    text-align: center;
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 700;
+    margin: 3rem;
+}
+
+.information-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3em;
+}
+
+.information-container{
+    width: 9em;
+    text-align: center;
+}
+
+.information-box{
+    width: 9em;
+    height: 9em;
+    border: #3882f6 solid 5px;
+    border-radius: 16px;
+}
