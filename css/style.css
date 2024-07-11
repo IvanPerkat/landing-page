@@ -134,3 +134,10 @@
     font-weight: 900;
     margin-top: 1rem;
 }
+
+footer{
+    background-color: #1f2937;
+    text-align: center;
+    padding: 2em;
+    color: #f9faf8;
+}
