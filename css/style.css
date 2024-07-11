@@ -79,6 +79,10 @@
     justify-content: center;
 }
 
+.information{
+    margin-bottom: 6rem;
+}
+
 .information h2{
     text-align: center;
     font-size: 36px;
@@ -104,4 +108,29 @@
     height: 9em;
     border: #3882f6 solid 5px;
     border-radius: 16px;
+}
+
+.quote{
+    background-color: #e5e7eb;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-container{
+    width: 60em;
+    height: auto;
+    margin: 8rem;
+}
+
+.quote-container p{
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+}
+
+.quote-container h3{
+    text-align: right;
+    font-weight: 900;
+    margin-top: 1rem;
 }
